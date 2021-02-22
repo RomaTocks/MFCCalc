@@ -1,0 +1,4 @@
+﻿  MFCCalcDlg.cpp
+D:\Programming\.cpp\Calc\MFCCalc\MFCCalc\MFCCalcDlg.cpp(639,52): warning C4302: приведение типов: усечение из "wchar_t *" к "char"
+D:\Programming\.cpp\Calc\MFCCalc\MFCCalc\MFCCalcDlg.cpp(639,52): error C3285: оператор for each не может работать с переменными типа "char"
+D:\Programming\.cpp\Calc\MFCCalc\MFCCalc\MFCCalcDlg.cpp(641,17): error C2065: var: необъявленный идентификатор
